@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**keenranger/keenranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Auth
+### What I've done
+- hashing and salting
+- jwt
+- symmetric key(HMAC)
+- assymmetric key(RSA, ECDSA, EdDSA)
+### What I'm interested in
+- FIDO2
+## Devops
+### What I've done
+- Docker
+- GCP Cloud Run
+- AWS Fargate + load balancer
+- AWS API gateway + Lambda
+- AWS SAM
