@@ -11,7 +11,9 @@
 - Arduino
 - Java
 - C
+### I'm intrested in
 - Rust
+- carbon
 ## Auth
 ### What I've done
 - hashing and salting
@@ -25,6 +27,7 @@
 ### What I've done
 - Docker
 - GCP Cloud Run
+- AWS VPC + Security Group
 - AWS Fargate + elastic load balancer
 - AWS API gateway + Lambda
 - AWS SAM
