@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-## Language
-
-
+## Language & Framwork
+### I'm good at
+- Go
+- Python
+- numpy, pytorch
+### I have experience with
+- Android(kotlin, Java)
+- Flutter
+- Arduino
+- Java
+- C
+- Rust
 ## Auth
 ### What I've done
 - hashing and salting
