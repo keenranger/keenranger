@@ -16,6 +16,6 @@
 ### What I've done
 - Docker
 - GCP Cloud Run
-- AWS Fargate + load balancer
+- AWS Fargate + elastic load balancer
 - AWS API gateway + Lambda
 - AWS SAM
