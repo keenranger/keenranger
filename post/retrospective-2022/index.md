@@ -1,6 +1,6 @@
 ---
 title: "restrospective 2022"
-date: 2022-14-24T18:38:54+09:00
+date: 2022-12-24T18:38:54+09:00
 slug: "restrospective-2022"
 draft: true
 ---
