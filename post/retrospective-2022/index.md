@@ -8,7 +8,7 @@ draft: true
 ## 2022년을 돌아보며…
 
 ![커밋이력](https://user-images.githubusercontent.com/18392918/209499014-711432ee-30d7-4985-b397-54a54fea393c.png)  
-논문 쓴다는 핑계로 오랫동안 쉬었다. 그래도 올 한해 한것들을 분야별로 모아 정리해보았다.
+커밋 이력을 돌아보니 누가 제초제라도 들이 부은 양 잔디밭이 황폐하다. 중간에 논문 쓴다는 핑계로 오랫동안 쉬었다… 그래도 올 한 해 해본 것들을 분야별로 모아 정리했다.
 
 ---
 
@@ -27,9 +27,10 @@ inner 출시를 준비하며, 이전처럼 고생하기는 싫어 다양한 방�
 - 컴파일이 사용한 Go를 사용하면서도 컨테이너 기반으로 배포한 점
 - 간단한 작업만이 요구됨에도 좀 더 가벼운 product를 사용하지 않은 점
 
-이 있었고, inner는 서버리스의 형태로 배포하기로 다짐하였다.
+이 있었고, inner 또한 무거운 제품이 아니었기에 서버리스의 형태로 배포하기로 다짐하였다.
 
-inner 서비스를 위해 AWS Lambda를 사용하였고, 이를 배포하기 위해서 AWS SAM(Serverless Application Model)을 처음 사용해보았다. 기존에 행해오던 콘솔 기반의 배포에서 조금 벗어나, IaC(Infrastructure as a Code)를 통해 빠르고 효율적으로 배포하는 법을 배웠다.
+inner 서비스를 위해 AWS Lambda를 사용하였고, 이를 배포하기 위해서 AWS SAM(Serverless Application Model)을 처음 사용해보았다. 기존에 행해오던 콘솔 기반의 배포에서 조금 벗어나,
+**IaC**(Infrastructure as a Code)를 통해 빠르고 효율적으로 배포하는 법을 배웠다.
 
 [<img src="https://user-images.githubusercontent.com/18392918/209504182-74373dc3-c72c-40e8-8b2c-8309c6169d79.png" height="600">](https://user-images.githubusercontent.com/18392918/209504182-74373dc3-c72c-40e8-8b2c-8309c6169d79.png)
 
@@ -47,9 +48,12 @@ SAM을 이용해 배포하면서 IaC의 편리함을 느끼고, 현재 olympus�
 
 ### Auth 관련
 
-각종 소셜로그인들을 구현하며 이제서야 제대로 OAuth 2.0에 대해 제대로 이해하였다. 내년에는 [FIDO2](https://fidoalliance.org/fido2/)와 같이 새로 나온 인증도 구현해보고 싶다.
+각종 소셜로그인들을 구현하며 이제서야 제대로 OAuth 2.0에 대해 제대로 이해하였다. 내년에는 [FIDO2](https://fidoalliance.org/fido2/)와 같이 새로운 인증도 구현해보고 싶다.
 
 ### Documentation
+
+빠른 개발을 위해 문서화 작업을 나중으로 미뤄오며 작업해왔는데, olympus 구현을 시점으로 개발하며 문서화를 빼놓지 않기로 결심했다. **프론트엔드 개발자분들도 조금 편해지지 않았을까?**  
+![swagger](https://user-images.githubusercontent.com/18392918/209507793-0626c98a-b649-4263-be39-c3f285e05e3f.png)
 
 ---
 
@@ -69,3 +73,10 @@ AI의 발달로 그 어느때보다도 편리한 소프트웨어가 나온 한�
 ![OpenAI Chat1](https://user-images.githubusercontent.com/18392918/209504393-2b4fa72e-8b73-4283-88e8-460075b87e15.png)
 
 개발내외적으로 많은 도움을 받으며 사용하고 있다. 혹시 아직 안써보신 분은 한번 써보시는 것을 추천드려요.
+
+---
+
+## 내년에는
+
+'그곳'과의 대규모 서비스가 예정되어 있는 시점에서, [kubernetes](https://kubernetes.io/)와 같이 대규모 분산 시스템을 이용한 엔진 구현이 가장 먼저일것 같다.
+돌아보고나니 생각보다 한게 많지 않아 아쉬움도 남는다. 내년에는 더 열심히 파이팅해보는 걸로 :)
