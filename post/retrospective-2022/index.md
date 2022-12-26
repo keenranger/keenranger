@@ -24,10 +24,10 @@ CTS 출시 당일 새벽 개발이 완료되어 안도했으나, 배포 과정�
 
 inner 출시를 준비하며, 이전처럼 고생하기는 싫어 다양한 방법을 물색해보며 CTS 배포를 되돌아보았다. 당시 내가 잘못 판단했던 것은
 
-- 컴파일이 사용한 Go를 사용하면서도 컨테이너 기반으로 배포한 점
+- 컴파일이 사용한 Go를 사용하면서도 대안을 모른체 컨테이너 기반으로 배포한 점(사실 아는게 컨테이너 뿐이었다)
 - 간단한 작업만이 요구됨에도 좀 더 가벼운 product를 사용하지 않은 점
 
-이 있었고, inner 또한 무거운 제품이 아니었기에 서버리스의 형태로 배포하기로 다짐하였다.
+이 있었고, inner 또한 무거운 제품이 아니었기에 이번에는 서버리스의 형태로 배포하기로 다짐하였다.
 
 inner 서비스를 위해 AWS Lambda를 사용하였고, 이를 배포하기 위해서 AWS SAM(Serverless Application Model)을 처음 사용해보았다. 기존에 행해오던 콘솔 기반의 배포에서 조금 벗어나,
 **IaC**(Infrastructure as a Code)를 통해 빠르고 효율적으로 배포하는 법을 배웠다.
@@ -38,6 +38,7 @@ inner 서비스를 위해 AWS Lambda를 사용하였고, 이를 배포하기 위
 
 SAM을 이용해 배포하면서 IaC의 편리함을 느끼고, 현재 olympus와 dunkirk는 인프라 구축부터 대표적인 IaC 오픈소스 프로그램인 [Terraform](https://www.terraform.io/)을 이용해서 작업하고있다.  
 [<img src="https://user-images.githubusercontent.com/18392918/209506618-1f92c7da-fad7-4a21-aa75-cda06208aa8e.png" height="600">](https://user-images.githubusercontent.com/18392918/209506618-1f92c7da-fad7-4a21-aa75-cda06208aa8e.png)  
+[<img src="https://user-images.githubusercontent.com/18392918/209508825-6f28b5fd-94fe-415e-9d3c-4664899e2e52.svg" height="600">](https://user-images.githubusercontent.com/18392918/209508825-6f28b5fd-94fe-415e-9d3c-4664899e2e52.svg)  
 아주 편하다 :)
 
 ---
@@ -52,7 +53,8 @@ SAM을 이용해 배포하면서 IaC의 편리함을 느끼고, 현재 olympus�
 
 ### Documentation
 
-빠른 개발을 위해 문서화 작업을 나중으로 미뤄오며 작업해왔는데, olympus 구현을 시점으로 개발하며 문서화를 빼놓지 않기로 결심했다. **프론트엔드 개발자분들도 조금 편해지지 않았을까?**  
+빠른 개발을 위해 문서화 작업을 나중으로 미뤄오며 작업해왔는데, olympus 구현을 시점으로 개발하며 문서화를 빼놓지 않기로 결심했다.  
+ _프론트엔드 개발자분들도 조금 편해지지 않았을까?_  
 ![swagger](https://user-images.githubusercontent.com/18392918/209507793-0626c98a-b649-4263-be39-c3f285e05e3f.png)
 
 ---
@@ -79,4 +81,16 @@ AI의 발달로 그 어느때보다도 편리한 소프트웨어가 나온 한�
 ## 내년에는
 
 '그곳'과의 대규모 서비스가 예정되어 있는 시점에서, [kubernetes](https://kubernetes.io/)와 같이 대규모 분산 시스템을 이용한 엔진 구현이 가장 먼저일것 같다.
+
+---
+
+## 정리하면
+
+- 졸업 :)
+- IaC
+- Serverless
+- OAuth(Social login)
+
+정도가 올해 하고 배운 것이 아닐까...
+
 돌아보고나니 생각보다 한게 많지 않아 아쉬움도 남는다. 내년에는 더 열심히 파이팅해보는 걸로 :)
