@@ -31,3 +31,4 @@
 - AWS Fargate + elastic load balancer
 - AWS API gateway + Lambda
 - AWS SAM
+- Terraform
