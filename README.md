@@ -1,34 +1,39 @@
-### Hi there 👋
+# Hi there 👋
 
-## Language & Framwork
-### I'm good at
+## Skills
+### Proficient in
 - Go
 - Python
 - numpy, pytorch
-### I have experience with
-- Android(kotlin, Java)
+
+### Experienced with
+- Android (Kotlin, Java)
 - Flutter
 - Arduino
 - Java
 - C
-### I'm intrested in
+
+### Interested in
 - Rust
-- carbon
-## Auth
-### What I've done
-- hashing and salting
-- jwt
-- symmetric key(HMAC)
-- assymmetric key(RSA, ECDSA, EdDSA)
-- Sign in With : apple, kakao, naver
-### What I'm interested in
+- Carbon
+
+## Authentication
+### Skills
+- Hashing and salting
+- JSON Web Tokens (JWT)
+- Symmetric key (HMAC)
+- Asymmetric key (RSA, ECDSA, EdDSA)
+- Sign in with Apple, Kakao, Naver
+
+### Interests
 - FIDO2
-## Devops
-### What I've done
+
+## DevOps
+### Skills
 - Docker
 - GCP Cloud Run
-- AWS VPC + Security Group
-- AWS Fargate + elastic load balancer
-- AWS API gateway + Lambda
-- AWS SAM
+- AWS VPC and Security Group
+- AWS Fargate and Elastic Load Balancer
+- AWS API Gateway and Lambda
+- AWS Serverless Application Model (SAM)
 - Terraform
