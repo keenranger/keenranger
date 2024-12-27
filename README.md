@@ -1,50 +1,43 @@
 # Hi there 👋
 
-## Skills
-### Proficient in
-- Go
-- Python
-- Numpy, PyTorch
+I am an AI Engineer with strong Python and Go backend experience, focused on building tools that empower developers through open-source contributions. My passion lies in crafting foundational pipelines and systems from scratch, enabling efficient and reliable AI solutions.
 
-### Experienced with
-- Android (Kotlin, Java)
-- Flutter
-- Arduino
-- Java
-- C
+## Focus Areas
+### AI and LLM Infrastructure
+- Building foundational infrastructure to support the deployment and scalability of Large Language Models (LLMs).
+- Creating and refining end-to-end pipelines for integrating LLMs into production environments.
+- Developing systems for real-time inference, model versioning, and monitoring.
+- Optimizing resource utilization for LLM-based services in cloud and hybrid environments.
+- Designing document management systems tailored for LLM workflows, including storage, retrieval, and efficient indexing.
 
-### Interested in
-- Rust
-- Carbon
+## Key Strengths
+- Strong foundation in Python and DevOps tools for AI applications.
+- Expertise in designing pipelines and systems from the ground up.
+- Practical approach to operationalizing AI with a focus on performance and cost efficiency.
 
-## Authentication
-### Skills
-- Hashing and Salting
-- JSON Web Tokens (JWT)
-- Symmetric Key (HMAC)
-- Asymmetric Key (RSA, ECDSA, EdDSA)
-- Sign in with Apple, Kakao, Naver
+## Supporting Skills
+### Authentication & Security
+- Expertise in designing secure systems using hashing, JWT, HMAC, and RSA.
+- Implemented app integrity measures to ensure secure operations and prevent unauthorized access.
+- Familiar with integrating social authentication services.
 
-### Interests
-- FIDO2
+### DevOps Practices
+- Extensive experience with containerization (Docker) and orchestration for deploying AI solutions.
+- Proficient in AWS and GCP for scalable cloud-based LLM infrastructure.
+- Skilled in automation and infrastructure-as-code using Terraform for deployment consistency.
 
-## DevOps
-### Skills
-- Docker
-- GCP Cloud Run
-- AWS VPC and Security Group
-- AWS Fargate and Elastic Load Balancer
-- AWS API Gateway and Lambda
-- AWS Serverless Application Model (SAM)
-- Terraform
+## Representative Projects
+- **LLM Deployment Pipeline**: Designed an end-to-end pipeline for deploying LLMs with auto-scaling, logging, and monitoring.
+- **Inference Optimization**: Developed systems for real-time LLM inference with reduced latency and optimized hardware utilization.
+- **Model Serving Infrastructure**: Built a secure and scalable model serving framework using AWS Fargate and API Gateway.
+- **Document Management System for LLMs**: Built a tailored document system for efficient data storage, retrieval, and indexing to support LLM operations.
+- **Contact Tracing System**: Developed a backend system for pandemic response, emphasizing secure authentication and deployment.
+- **Sensor Data Analysis**: Designed an Android-based application to collect and analyze sensor data for research purposes, integrating it with GCP for storage and processing.
 
-## Projects
-- Developed a Contact Tracing System (CTS) backend server to track contacts during the pandemic season.
-- Implemented authentication using ID and Password, with the password being hashed and salted for safety.
-- Deployed the Go project in a Docker container to AWS, utilizing VPC for performance and security and ELB for scalability.
-- Managed AWS infrastructure using Terraform, with AWS S3 being used to store the Terraform state file.
-- Utilized AWS SAM CLI and template.yaml to reduce deployment time.
-- Implemented global domain routing using latency-based routing.
-- Developed an Android app to collect sensor data for research purposes, using the app to study Android sensors (mag, acc, gyro, etc.) and BLE/WiFi scans.
-- Utilized thread handler to control all sensor measurements in a single space and stored the collected data in GCP storage.
+## Future Aspirations
+- Explore Rust to contribute to better Python tools and enhance AI-related development workflows.
+- Actively engage in open-source projects, focusing on tools and libraries for AI and infrastructure.
+- Develop expertise in building simple and effective web and mobile applications to complement backend and AI systems.
+- Advance knowledge in creating robust pipelines for LLM integration and optimization.
+- Drive innovations in scalable, cost-effective AI deployment architectures.
 
