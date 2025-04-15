@@ -1,43 +1,18 @@
 # Hi there 👋
 
-I am an AI Engineer with strong Python and Go backend experience, focused on building tools that empower developers through open-source contributions. My passion lies in crafting foundational pipelines and systems from scratch, enabling efficient and reliable AI solutions.
+I'm an AI/Agent engineer focused on building intelligent systems powered by large language models. With a strong backend foundation in Python and Go, I design autonomous AI agents from infrastructure to user interaction, delivering real-time, personalized experiences.
 
-## Focus Areas
-### AI and LLM Infrastructure
-- Building foundational infrastructure to support the deployment and scalability of Large Language Models (LLMs).
-- Creating and refining end-to-end pipelines for integrating LLMs into production environments.
-- Developing systems for real-time inference, model versioning, and monitoring.
-- Optimizing resource utilization for LLM-based services in cloud and hybrid environments.
-- Designing document management systems tailored for LLM workflows, including storage, retrieval, and efficient indexing.
+### What I do  
+- Architect end-to-end pipelines for LLM-based agent systems, including routing, memory, and decision logic  
+- Build production-ready AI agents like SleepMind and Z톡, integrated with messengers like Slack and KakaoTalk  
+- Develop secure, scalable cloud infrastructure using Docker, AWS Fargate, and Terraform  
+- Create internal tools like the user insight engine to extract, store, and utilize user context over time  
+- Focus on fast iteration, live testing, and monitoring to keep agents responsive and reliable
 
-## Key Strengths
-- Strong foundation in Python and DevOps tools for AI applications.
-- Expertise in designing pipelines and systems from the ground up.
-- Practical approach to operationalizing AI with a focus on performance and cost efficiency.
+### My strengths  
+- Deep understanding of both LLM capabilities and backend infrastructure to operationalize agents effectively  
+- Passionate about multi-agent systems, prompt engineering, and long-term memory integration  
+- Practical, speed-oriented builder who favors clean abstractions and real-world impact
 
-## Supporting Skills
-### Authentication & Security
-- Expertise in designing secure systems using hashing, JWT, HMAC, and RSA.
-- Implemented app integrity measures to ensure secure operations and prevent unauthorized access.
-- Familiar with integrating social authentication services.
-
-### DevOps Practices
-- Extensive experience with containerization (Docker) and orchestration for deploying AI solutions.
-- Proficient in AWS and GCP for scalable cloud-based LLM infrastructure.
-- Skilled in automation and infrastructure-as-code using Terraform for deployment consistency.
-
-## Representative Projects
-- **LLM Deployment Pipeline**: Designed an end-to-end pipeline for deploying LLMs with auto-scaling, logging, and monitoring.
-- **Inference Optimization**: Developed systems for real-time LLM inference with reduced latency and optimized hardware utilization.
-- **Model Serving Infrastructure**: Built a secure and scalable model serving framework using AWS Fargate and API Gateway.
-- **Document Management System for LLMs**: Built a tailored document system for efficient data storage, retrieval, and indexing to support LLM operations.
-- **Contact Tracing System**: Developed a backend system for pandemic response, emphasizing secure authentication and deployment.
-- **Sensor Data Analysis**: Designed an Android-based application to collect and analyze sensor data for research purposes, integrating it with GCP for storage and processing.
-
-## Future Aspirations
-- Explore Rust to contribute to better Python tools and enhance AI-related development workflows.
-- Actively engage in open-source projects, focusing on tools and libraries for AI and infrastructure.
-- Develop expertise in building simple and effective web and mobile applications to complement backend and AI systems.
-- Advance knowledge in creating robust pipelines for LLM integration and optimization.
-- Drive innovations in scalable, cost-effective AI deployment architectures.
-
+### Looking ahead  
+I'm committed to pushing the boundaries of what AI agents can do — from daily copilots to autonomous services. I explore emerging techniques in agent orchestration, open-source tooling, and user-personalized AI to stay ahead in this rapidly evolving space.
