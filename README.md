@@ -1,36 +1,45 @@
 # Hi 👋
 
-Building AI agents that actually work.
+I'm Hankyeol, an AI/agent engineer building systems for autonomy, memory, and human-AI collaboration.
 
-Currently @ **Asleep** — shipping AI-powered sleep products to real users.
+Currently @ **Asleep**, shipping AI-powered sleep products to real users.
 
-## What I'm working on
+## What I work on
 
-**B2C & D2C products** — not just demos, actual products people use
-- Sleep analysis apps in production
-- SleepHub: device-to-customer, AI meets hardware
-- Voice agents that talk to real customers
+### Product systems
+- Sleep analysis products in production
+- SleepHub, where AI meets devices and customer experience
+- Voice agents that interact with real users, not just demos
 
-**Agent infrastructure** — making AI agents effective at scale
-- Internal skill libraries that agents can actually use
+### Agent systems
+- Internal skill libraries agents can actually use
 - Multi-agent orchestration for production workloads
-- End-to-end: LLM pipelines → backend → cloud infra
+- End-to-end agent pipelines across backend, cloud infra, and product surfaces
 
-## What I care about
+## What I'm interested in
 
-- **Ship > polish** — learn from real users, not hypotheticals
-- **Agents as teammates** — not just tools, actual collaborators
-- **Infra that disappears** — good systems feel invisible
+- **Agents as teammates**
+- **External memory / personal knowledge systems**
+- **The gap between agent demos and agent products**
+- **AI-native workflows that make information actually reusable**
 
-## Currently exploring
+## Current direction
+Lately I'm especially interested in how agents should work over explicit, local, file-based knowledge instead of opaque memory.
 
-- Personal AI agents (yes, I have one)
+That includes:
+- personal AI agents
+- external memory / wiki-style systems
 - A2A protocols and multi-agent collaboration
-- The gap between agent demos and agent products
+- tools that turn scattered context into reusable task context
+
+## Philosophy
+- **Ship > polish**
+- **Real users > toy demos**
+- **Good infra should disappear**
+- **The best agent systems are collaborative, not theatrical**
 
 ## Links
-
-- Twitter: [@hankyeolkyung](https://twitter.com/hankyeolkyung)
+- X/Twitter: [@hankyeolkyung](https://twitter.com/hankyeolkyung)
 - Company: [Asleep](https://asleep.ai)
 
 ---
